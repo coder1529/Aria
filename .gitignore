@@ -1,0 +1,12 @@
+*.env
+memory.txt
+reminders.txt
+profile.txt
+*.png
+models/
+*.pt
+*.bin
+*.onnx
+__pycache__/
+*.pyc
+desktop.ini
